@@ -1,1 +1,1 @@
-Intro into JS Functions
+# Intro into JS Functions

@@ -17,7 +17,7 @@ console.log('deer:', nuggetizer2('deer'));
 const bearSticks = nuggetizer('bear');
 
 const nomnom = (name,food) => {
-    return `${name} devours ${food}`
+    return `${name} devoured ${food}`;
 }
 
-console.log(nomnom('Dylan', bearSticks)) // Dylan devours bear stix
+console.log(nomnom('Dylan', bearSticks)); // Dylan devours bear stix
